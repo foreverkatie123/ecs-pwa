@@ -1,0 +1,79 @@
+{
+  "projects": [
+    {
+      "id": "9ea9",
+      "projectInfo": {
+        "projectName": "Test Project",
+        "planName": "Test Plan"
+      },
+      "services": {
+        "irrigationDesign": true,
+        "takeoff": false,
+        "submittal": true
+      }
+    },
+    {
+      "id": "2168",
+      "projectInfo": {
+        "projectName": "",
+        "planName": "",
+        "address1": "",
+        "address2": "",
+        "city": "",
+        "state": "NY",
+        "zipcode": "",
+        "bidDate": "",
+        "dueDate": "",
+        "zoneCount": "Small",
+        "existingQuote": "",
+        "projectNotes": ""
+      },
+      "contactInfo": {
+        "companyName": "",
+        "accountNumber": "",
+        "contactName": "",
+        "contactEmail": "",
+        "contactPhone": "",
+        "preferredBranch": "San Carlos",
+        "ewingRepresentative": ""
+      },
+      "services": {
+        "irrigationDesign": false,
+        "landscapeMaterials": false,
+        "lighting": false,
+        "drainage": false,
+        "hardscape": false
+      },
+      "files": {
+        "originalPlans": [],
+        "specifications": [],
+        "addenda": []
+      },
+      "designDetails": {
+        "waterSource": "Well",
+        "pressure": "50",
+        "meterSize": "1",
+        "mainline": "PVC Sch 40",
+        "sleeving": "PVC CL200",
+        "lateralPipe": "Flex 80",
+        "controller": "Hunter",
+        "backflow": "",
+        "valves": "",
+        "quickCoupler": "",
+        "rainSensor": "",
+        "dripKits": "",
+        "sprays": "",
+        "rotators": "",
+        "rotors": "",
+        "fieldRotors": "",
+        "treesInTurf": "",
+        "nonTurfTrees": "",
+        "plantingBeds": "",
+        "designNotes": "",
+        "prioritizeDetails": true,
+        "templateName": ""
+      },
+      "createdAt": "2025-12-05T17:13:19.065Z"
+    }
+  ]
+}
